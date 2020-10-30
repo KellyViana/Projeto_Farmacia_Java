@@ -1,0 +1,6 @@
+
+jun 29, 2020 22:59:27.00 NEW SESSION
+jun 29, 2020 22:59:27.00 [2216:9772:0629/225926.999:ERROR:device_event_log_impl.cc(208)] [22:59:26.999] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+jun 29, 2020 23:02:04.83 [4084:8256:0629/230204.831:ERROR:device_event_log_impl.cc(208)] [23:02:04.831] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+jun 29, 2020 23:09:20.64 [9584:2612:0629/230920.642:ERROR:device_event_log_impl.cc(208)] [23:09:20.642] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.
+jun 29, 2020 23:13:36.71 [4528:11744:0629/231336.717:ERROR:device_event_log_impl.cc(208)] [23:13:36.716] Bluetooth: bluetooth_adapter_winrt.cc:1060 Getting Default Adapter failed.

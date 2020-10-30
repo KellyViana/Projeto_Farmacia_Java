@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+/*  Pega informações do primefaces https://www.primefaces.org/showcase/ui/panel/layout/complex.xhtml */
+.ui-layout-north {
+	z-index: 20 !important;
+	overflow: visible !important;;
+}
+
+.ui-layout-north .ui-layout-unit-content {
+	overflow: visible !important;
+}
+	
+.ui-widget, .ui-widget .ui-widget {
+font-size: 90% !important;
+}

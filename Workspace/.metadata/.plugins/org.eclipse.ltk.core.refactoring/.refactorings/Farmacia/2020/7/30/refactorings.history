@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;br.com.farmacia.factory.ConexaoFactory.main().conexao&apos; in &apos;br.com.farmacia.factory.ConexaoFactory.main()&apos; to field&#x0D;&#x0A;- Original project: &apos;Farmacia&apos;&#x0D;&#x0A;- Original element: &apos;br.com.farmacia.factory.ConexaoFactory.main().conexao&apos;&#x0D;&#x0A;- Field name: &apos;conexao&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;conexao&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;br.com.farmacia.factory{ConexaoFactory.java" name="conexao" selection="602 35" stamp="1595122779770" static="true" version="1.0" visibility="2"/>
+</session>
